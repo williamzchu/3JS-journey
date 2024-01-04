@@ -1,0 +1,23 @@
+{
+  "name": "3js-journey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glsl": "^0.0.1",
+    "lil-gui": "^0.19.1",
+    "three": "^0.160.0",
+    "vite": "^5.0.10",
+    "vite-plugin": "^0.0.0",
+    "vite-plugin-glsl": "^1.2.1"
+  }
+}
